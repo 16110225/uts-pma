@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMovie</string>
+    <string name="title_size">ukuran</string>
+    <string name="detail">DETAIL</string>
+</resources>
